@@ -1,0 +1,6 @@
+echo Enter the age :
+read age 
+if(( $age  >=18 ))
+then
+   echo "ELIGIBLE FOR VOTING"
+fi
